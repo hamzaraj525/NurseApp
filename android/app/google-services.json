@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1046924362853",
+    "firebase_url": "https://demoprooject-default-rtdb.firebaseio.com",
+    "project_id": "demoprooject",
+    "storage_bucket": "demoprooject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046924362853:android:565c93df7e0bd38447b28c",
+        "android_client_info": {
+          "package_name": "com.demoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046924362853-b94kmonmvljvdof3mv8665j6uj4j0bv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_YKkhC98XYFZ28a2qXpIMD6NTGnS_5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046924362853-b94kmonmvljvdof3mv8665j6uj4j0bv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046924362853:android:66f2f73c1553ac1b47b28c",
+        "android_client_info": {
+          "package_name": "com.nurseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046924362853-b94kmonmvljvdof3mv8665j6uj4j0bv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_YKkhC98XYFZ28a2qXpIMD6NTGnS_5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046924362853-b94kmonmvljvdof3mv8665j6uj4j0bv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
